@@ -1,0 +1,14 @@
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\obj\Debug\netcoreapp3.1\27.01.2023.csproj.AssemblyReference.cache
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\obj\Debug\netcoreapp3.1\27.01.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\obj\Debug\netcoreapp3.1\27.01.2023.AssemblyInfoInputs.cache
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\obj\Debug\netcoreapp3.1\27.01.2023.AssemblyInfo.cs
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\obj\Debug\netcoreapp3.1\27.01.2023.csproj.CoreCompileInputs.cache
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\bin\Debug\netcoreapp3.1\27.01.2023.exe
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\bin\Debug\netcoreapp3.1\27.01.2023.deps.json
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\bin\Debug\netcoreapp3.1\27.01.2023.runtimeconfig.json
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\bin\Debug\netcoreapp3.1\27.01.2023.runtimeconfig.dev.json
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\bin\Debug\netcoreapp3.1\27.01.2023.dll
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\bin\Debug\netcoreapp3.1\27.01.2023.pdb
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\obj\Debug\netcoreapp3.1\27.01.2023.dll
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\obj\Debug\netcoreapp3.1\27.01.2023.pdb
+C:\Users\99450\source\repos\27.01.2023\27.01.2023\obj\Debug\netcoreapp3.1\27.01.2023.genruntimeconfig.cache
